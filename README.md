@@ -34,7 +34,7 @@ Greetings! In this technical overview, we'll navigate through our COVID-19 data 
 By harnessing AWS tools, we've constructed a streamlined data pipeline for insightful COVID-19 analysis. From storage in S3 to cataloging with Glue, querying via Athena, and warehousing with Redshift, each step was meticulously orchestrated for a smooth and efficient analysis process.
 
 ## An Overview of Our Project Flow
-<img src="data_model.png">
+<img src="architecture.png">
 
 ## Data Model
 <img src="data_model.png">
